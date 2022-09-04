@@ -45,7 +45,7 @@ export const jelovnikDjeca = {
   Utorak: ["Eurokrem namaz, mlijeko", "Supa, ćufte, pire krompir", "Voće"],
   Srijeda: [
     "Kajgana, čaj",
-    "Makarone s gulašom",
+    "Makarone sa gulašom",
     "Dalmatinski kolač sa bananama",
   ],
   Četvrtak: [
